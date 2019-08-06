@@ -1,0 +1,12 @@
+#progress button {
+  font-size: 2em;
+  padding: 0.3em 0.5em;
+  width: 100%;
+  border-width: 5px;
+  cursor: pointer;
+  outline: none;
+}
+#progress button:active {
+  padding: 0.35em 0.45em 0.25em 0.55em;
+  background: #eee;
+}
